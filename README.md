@@ -1,3 +1,4 @@
+<span style="color:blue">
 ```sh 
 
 root@buxx0:~$ buxfetch
@@ -21,3 +22,4 @@ root@buxx0:~$ buxfetch
    ((((((((((((,@@@@@@@@@@@@@@@@@@@@                                             
    (((((((((((/@@@@@@@@@@@@@@@@@@@@@                                                                                         
    ```
+  </span>
