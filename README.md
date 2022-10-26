@@ -1,4 +1,6 @@
-```sh root@buxx0:~$ buxfetch
+```sh 
+
+root@buxx0:~$ buxfetch
 
                     @@@@@@@@      @@@@@@                                         
                      @@@@@@@@   @@@@@@                                           
