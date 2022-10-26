@@ -1,5 +1,5 @@
 
-``` 
+```shell 
 
 root@buxx0:~$ buxfetch
  
