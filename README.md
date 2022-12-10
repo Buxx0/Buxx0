@@ -9,7 +9,7 @@ root@buxx0:~$ buxfetch
                        @@@@@@@@@@@          | Programming Languages: Python, C, Java, oCaml                                   
                         @@@@@@@@@           | Editor: Vim, Atom, Eclipse IDE, Pycharm                                   
     ((((((((((          @@@@@@@@@@          | OS: Fedora 36 / Win10                                 
-    ((((((((((        ,@@@@@@@@@@@@         | Uptime: 18.8 years                                    
+    ((((((((((        ,@@@@@@@@@@@@         | Uptime: 19.0 years                                    
    (((((((((((       @@@@@@ @@@@@@@@        | License: Proprietary                                    
      ((((((((,     @@@@@@@   @@@@@@@@       | Author: Mother & Father                                    
      ((((((((  (/@@@@@@@@@    @@@@@@@@      | Languages: English, French, Serbian, German                                    
